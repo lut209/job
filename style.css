@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: navy;
+    margin: 15px;
+    padding: 10px;
+}
+.now{
+    color: white;
+}
+main h1{
+color: purple;
+text-align: center;
+}
+footer{
+ background-color: pink;
+ border:5px solid pink ;  
+}
+.hot{
+    background-color: white;
+}
+nav{
+    border:2px solid gray ;
+}
+nav a {
+    color: gray;
+    margin:15px ;
+    padding:20px ;
+    text-decoration: none;
+}
+p img{
+    background-color: green;
+}
+.kin{
+    background-color: green;
+}
+.loj{
+    color: blue;
+    font-size:30px ;
+}
+.hog{
+    border-radius:15px ;
+}
+.hug{
+    font-size:20px ;
+}
